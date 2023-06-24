@@ -1,0 +1,31 @@
+.h1-duur {
+  color: #222f33;
+  font-size: 30px;
+  font-family: Merriweather;
+  font-weight: 900;
+  margin: 0;
+  
+}
+
+.parrafo-duur {
+  color: #646d70;
+  font-size: 14px;
+  font-family: Rubik;
+  line-height: 26px;
+  padding: 0;
+  margin-top: 13px;
+}
+
+.div-duur {
+  width: 400px;
+  height: 275px;
+}
+
+.section-duur{
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 62px;padding-bottom: 62px;
+}

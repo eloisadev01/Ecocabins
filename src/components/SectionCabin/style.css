@@ -1,0 +1,39 @@
+.section_cabin {
+  width: 100%;
+  height: 532px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 85px;
+  justify-content: space-between;
+}
+
+.h1-cabin {
+  color: #222f33;
+  font-size: 18px;
+  font-family: Merriweather;
+  font-weight: 900;
+}
+
+.parrafo-cabin {
+  color: #646d70;
+  font-size: 12px;
+  font-family: Rubik;
+  line-height: 22px;
+}
+
+.p-cabin {
+  width: 215px;
+  height: 93px;
+
+}
+
+.parrafocabin-1 {
+  max-width: 530px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+  
+}

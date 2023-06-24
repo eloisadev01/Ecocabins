@@ -1,0 +1,26 @@
+.header-eco {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 46px;
+}
+
+.enlaces-eco {
+  justify-content: center;
+  display: flex;
+  gap: 40px;
+}
+
+.enlaces {
+  color: white;
+  text-transform: capitalize;
+  padding: 10px 22px;
+  text-decoration: none;
+}
+
+.enlaces:hover {
+  background-color: white;
+  color: #606b74;
+}

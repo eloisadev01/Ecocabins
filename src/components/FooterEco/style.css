@@ -1,0 +1,24 @@
+.footer-eco {
+  background-color: #222f33;
+  margin-top: 56px;
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.parrafo-footer {
+  color: white;
+  font-size: 12px;
+  font-family: Rubik;
+  font-weight: 500;
+}
+
+.div-cookies {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}

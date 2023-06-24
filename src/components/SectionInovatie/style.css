@@ -1,0 +1,39 @@
+.h1-inno {
+  font-size: 30px;
+  font-family: Merriweather;
+  font-weight: 900;
+  color: white;
+}
+
+.div-parrafos {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  justify-content: space-between;
+}
+
+.parrafo-1 {
+  width: 380px;
+  height: 120px;
+  font-size: 14px;
+  font-family: Rubik;
+  line-height: 24px;
+  color: #FFF;
+}
+
+.parrafo-2 {
+  width: 380px;
+  height: 120px;
+  font-size: 14px;
+  font-family: Rubik;
+  line-height: 24px;
+  color: #FFF;
+}
+
+.sectioninovatie{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 72px;
+    padding-bottom: 72px;
+    background-color: #222F33;
+}

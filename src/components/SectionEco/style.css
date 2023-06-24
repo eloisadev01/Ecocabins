@@ -1,0 +1,27 @@
+.parrafo-duur {
+  color: #fff;
+  font-size: 16px;
+  font-family: Rubik;
+  font-weight: 500;
+  padding-left: 116px;
+  margin: 0;
+}
+
+.fondo-sectioneco {
+  background-image: url("../../assets/cabin_bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 119px;
+  padding-bottom: 196px;
+}
+
+.parrafo-een {
+  font-size: 30px;
+  font-family: Merriweather;
+  font-weight: 900;
+  color: #fff;
+  width: 440px;
+  height: 152px;
+  padding-left: 116px;
+}
